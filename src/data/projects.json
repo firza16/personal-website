@@ -1,0 +1,82 @@
+[
+  {
+    "id": "skinfriend",
+    "projectName": "SkinFriend",
+    "projectImg": "/img/project-image1.png",
+    "description": "Skinfriend is an application that provides personalized skincare recommendations using artificial intelligence and facial scanning technology. The app focuses on helping users understand the right products for their skin type and condition by analyzing facial features, product ingredients, and individual preferences to offer suitable solutions.",
+    "role": "Backend & Cloud Engineer",
+    "roleDesc": ["Developed a Flask-based API to serve the machine learning model and deployed it using Cloud Run for scalable, containerized execution.", "Built a user registration and data management API using Express.js integrated with Firebase Firestore, then deployed the service on App Engine.", "Performed functional testing on all endpoints and created clear API documentation to support integration for the Android development team."],
+    "techStack": ["gcp", "firebase", "express", "python"],
+    "projectLink": "https://github.com/firza16/Capstone-Project-Skinfriend"
+  },
+  {
+    "id": "lokakarya",
+    "projectName": "LokaKarya",
+    "projectImg": "/img/project-image2.png",
+    "description": "LokaKarya is a Flutter-based digital application designed to improve the visibility and accessibility of local UMKM (micro, small, and medium enterprises) products. A simple solution that helps creative entrepreneurs promote their unique products while making it easier for residents and tourists to discover and support local businesses.",
+    "role": "Backend Developer (Firebase)",
+    "roleDesc": ["Integrated Firebase into the app to enable dynamic, backend-managed data and simplify updates.", "Created documentation to help developers and contributors understand how to use and integrate the application."],
+    "techStack": ["flutter", "firebase"],
+    "projectLink": "https://github.com/LokaKarya-BEKUP/LokaKarya"
+  },
+  {
+    "id": "food-recognizer",
+    "projectName": "Food Recognizer",
+    "projectImg": "/img/project-image3.png",
+    "description": "A simple Flutter application that leverages a machine learning model to recognize food items from images with high accuracy.",
+    "role": " Developer",
+    "roleDesc": [],
+    "techStack": ["flutter"],
+    "projectLink": "https://github.com/firza16/Simon-game-challenge"
+  },
+  {
+    "id": "resto-app",
+    "projectName": "Resto List App",
+    "projectImg": "/img/project-image4.png",
+    "description": "A simple Flutter application that displays a list of restaurants, featuring the ability to mark favorites, receive daily reminder notifications, and switch between light and dark themes.",
+    "role": " Developer",
+    "roleDesc": [],
+    "techStack": ["flutter"],
+    "projectLink": "https://github.com/firza16/Simon-game-challenge"
+  },
+  {
+    "id": "todo-app",
+    "projectName": "To-do list",
+    "projectImg": "/img/project-image5.png",
+    "description": "A simple to-do web app that allows users to create, track, and manage daily tasks for better daily productivity.",
+    "role": " Developer ",
+    "roleDesc": [],
+    "techStack": ["express", "postgresql"],
+    "projectLink": "https://github.com/firza16/To-do-list-"
+  },
+  {
+    "id": "bookshelf-app",
+    "projectName": "Bookshelf Apps",
+    "projectImg": "/img/project-image6.png",
+    "description": "A bookshelf web app that allows users to add, manage, and categorize books as “read” or “unread,",
+    "role": " Developer",
+    "roleDesc": [],
+    "techStack": ["javascript"],
+    "projectLink": "https://github.com/firza16/Simon-game-challenge"
+  },
+  {
+    "id": "simon-game",
+    "projectName": "Simon Game",
+    "projectImg": "/img/project-image7.png",
+    "description": "A web-based Simon Game that challenges users to follow increasing color and sound patterns, built to practice interactive UI logic and event handling.",
+    "role": " Developer",
+    "roleDesc": [],
+    "techStack": ["javascript"],
+    "projectLink": "https://github.com/firza16/Simon-game-challenge"
+  },
+  {
+    "id": "dice-game",
+    "projectName": "Dice Game",
+    "projectImg": "/img/project-image8.png",
+    "description": "A simple JavaScript dice game that rolls two dice and displays the result (I mean… does this even qualify as a project?💀)",
+    "role": "Developer",
+    "roleDesc": [],
+    "techStack": ["javascript"],
+    "projectLink": "https://github.com/firza16/Simon-game-challenge"
+  }
+]
