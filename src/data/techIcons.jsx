@@ -1,4 +1,3 @@
-// src/data/techIcons.js
 
 import {
   SiJavascript, SiExpress, SiTailwindcss, SiMysql, SiPostman, SiGooglecloud
