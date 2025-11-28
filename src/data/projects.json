@@ -5,7 +5,11 @@
     "projectImg": "/img/project-image1.png",
     "description": "Skinfriend is an application that provides personalized skincare recommendations using artificial intelligence and facial scanning technology. The app focuses on helping users understand the right products for their skin type and condition by analyzing facial features, product ingredients, and individual preferences to offer suitable solutions.",
     "role": "Backend & Cloud Engineer",
-    "roleDesc": ["Developed a Flask-based API to serve the machine learning model and deployed it using Cloud Run for scalable, containerized execution.", "Built a user registration and data management API using Express.js integrated with Firebase Firestore, then deployed the service on App Engine.", "Performed functional testing on all endpoints and created clear API documentation to support integration for the Android development team."],
+    "roleDesc": [
+      "Developed a Flask-based API to serve the machine learning model and deployed it using Cloud Run for scalable, containerized execution.",
+      "Built a user registration and data management API using Express.js integrated with Firebase Firestore, then deployed the service on App Engine.",
+      "Performed functional testing on all endpoints and created clear API documentation to support integration for the Android development team."
+    ],
     "techStack": ["gcp", "firebase", "express", "python"],
     "projectLink": "https://github.com/firza16/Capstone-Project-Skinfriend"
   },
