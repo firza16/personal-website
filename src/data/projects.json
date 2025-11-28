@@ -27,7 +27,7 @@
     "role": " Developer",
     "roleDesc": [],
     "techStack": ["flutter"],
-    "projectLink": "https://github.com/firza16/Simon-game-challenge"
+    "projectLink": "https://github.com/firza16/Flutter-Food-Recognizer-App"
   },
   {
     "id": "resto-app",
@@ -37,7 +37,7 @@
     "role": " Developer",
     "roleDesc": [],
     "techStack": ["flutter"],
-    "projectLink": "https://github.com/firza16/Simon-game-challenge"
+    "projectLink": "https://github.com/firza16/Flutter-Resto-App"
   },
   {
     "id": "todo-app",
@@ -57,7 +57,7 @@
     "role": " Developer",
     "roleDesc": [],
     "techStack": ["javascript"],
-    "projectLink": "https://github.com/firza16/Simon-game-challenge"
+    "projectLink": "https://github.com/firza16/bookshelf-apps"
   },
   {
     "id": "simon-game",
@@ -77,6 +77,6 @@
     "role": "Developer",
     "roleDesc": [],
     "techStack": ["javascript"],
-    "projectLink": "https://github.com/firza16/Simon-game-challenge"
+    "projectLink": "https://github.com/firza16/Dice-Challenge"
   }
 ]
