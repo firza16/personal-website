@@ -1,5 +1,20 @@
 [
   {
+    "id": "nutrifriend",
+    "projectName": "Nutrifriend",
+    "projectImg": "/img/project-image9.png",
+    "description": "NutriFriend is a website that identifies packaged sweet beverages and provides a nutritional grade based on the Singapore Nutri-Grade guidelines, along with detailed information on sugar and saturated fat content. It also features a sugar calculator that helps users estimate the total sugar intake from a single bottle, supporting healthier daily consumption habits.",
+    "role": "Machine Learning & Full Stack Engineer",
+    "roleDesc": [
+      "Collected and curated an image dataset of packaged beverages along with their sugar and saturated fat content sourced from local minimarket products.",
+      "Developed an image classification model using a Convolutional Neural Network (CNN) with MobileNetV2 architecture, built with TensorFlow and Keras.",
+      "Built a REST API using FastAPI to serve and expose the machine learning model for inference, and deployed it to Hugging Face Spaces for public accessibility.",
+      "Developed the frontend website using React and Tailwind CSS, and deployed it to Vercel."
+    ],
+    "techStack": ["react", "tailwind", "python", "tensorflow", "fastapi"],
+    "projectLink": "https://github.com/firza16/nutrifriend-frontend"
+  },
+  {
     "id": "skinfriend",
     "projectName": "SkinFriend",
     "projectImg": "/img/project-image1.png",
@@ -13,6 +28,7 @@
     "techStack": ["gcp", "firebase", "express", "python"],
     "projectLink": "https://github.com/firza16/Capstone-Project-Skinfriend"
   },
+
   {
     "id": "lokakarya",
     "projectName": "LokaKarya",

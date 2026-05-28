@@ -1,6 +1,6 @@
 
 import {
-  SiJavascript, SiExpress, SiTailwindcss, SiMysql, SiPostman, SiGooglecloud
+  SiJavascript, SiExpress, SiTailwindcss, SiMysql, SiPostman, SiGooglecloud, SiTensorflow, SiFastapi
 } from "react-icons/si";
 
 import {
@@ -18,6 +18,14 @@ const techIcons = {
   javascript: {
     icon: <SiJavascript size={20} color="#F7DF1E" />,
     label: "JavaScript",
+  },
+  tensorflow: {
+    icon: <SiTensorflow size={20} color="#F69D39" />,
+    label: "Tensorflow",
+  },
+  fastapi: {
+    icon: <SiFastapi size={20} color="#2FA084" />,
+    label: "FastAPI",
   },
   php: {
     icon: <FaPhp size={20} color="#4F5D95" />,

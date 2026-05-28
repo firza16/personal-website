@@ -9,7 +9,7 @@
 
 @layer base {
   html {
-    @apply font-inter; /* Or font-custom if you created a new one */
+    @apply font-inter;
   }
 }
 

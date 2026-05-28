@@ -8,6 +8,30 @@ function Experience() {
           <div className="group relative flex gap-x-5">
             <div className="relative group-last:after:hidden after:absolute after:top-8 after:bottom-2 after:start-5 after:w-px after:-translate-x-[0.5px] after:bg-gray-400">
               <div className="relative z-10 size-10 flex justify-center items-center">
+                <img className=" shrink-0 rounded-full" src="/img/coding-camp-logo.png" alt="Avatar" />
+              </div>
+            </div>
+
+            <div className="grow pb-8 group-last:pb-0">
+              <div className="flex justify-between items-center">
+                <p className="font-semibold text-sm text-gray-900 mb-1">AI Engineer Cohort</p>
+                <h3 className="mb-1 text-xs text-gray-600">Feb 2026 - Jun 2025</h3>
+              </div>
+
+              <h3 className="mb-1 text-xs text-gray-900">Coding Camp powered by DBS Foundation</h3>
+
+              <ul className="list-disc ms-4 mt-3 space-y-1.5">
+                <li className="ps-1 text-sm text-gray-700">Gained hands-on experience in Python, Machine Learning, and Deep Learning, including data preprocessing, model training, and evaluation, through structured learning and hands-on practice.</li>
+                <li className="ps-1 text-sm text-gray-700">Completed all mandatory courses on time, earning 4 certificates from Dicoding. </li>
+                <li className="ps-1 text-sm text-gray-700">Contributed to a Capstone project called StreetWatch, an AI-powered road damage reporting website, by developing Deep Learning models for object detection and road damage severity classification.</li>
+              </ul>
+            </div>
+          </div>
+
+
+          <div className="group relative flex gap-x-5">
+            <div className="relative group-last:after:hidden after:absolute after:top-8 after:bottom-2 after:start-5 after:w-px after:-translate-x-[0.5px] after:bg-gray-400">
+              <div className="relative z-10 size-10 flex justify-center items-center">
                 <img className=" shrink-0 rounded-full" src="/img/bekup-logo.png" alt="Avatar" />
               </div>
             </div>
@@ -22,7 +46,7 @@ function Experience() {
 
               <ul className="list-disc ms-4 mt-3 space-y-1.5">
                 <li className="ps-1 text-sm text-gray-700">Gained practical experience in building multi-platform applications with Dart and Flutter.</li>
-                <li className="ps-1 text-sm text-gray-700">Completed all mandatory courses on time, earning 10 certificates from Dicoding. </li>
+                <li className="ps-1 text-sm text-gray-700">Completed all mandatory courses on time, earning 5 certificates from Dicoding. </li>
                 <li className="ps-1 text-sm text-gray-700">Contributed to the capstone project by integrating Firebase into the app to enable dynamic backend-managed data.</li>
               </ul>
             </div>
