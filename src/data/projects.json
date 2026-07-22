@@ -15,6 +15,21 @@
     "projectLink": "https://github.com/firza16/nutrifriend-frontend"
   },
   {
+    "id": "streetwatch",
+    "projectName": "StreetWatch",
+    "projectImg": "/img/project-image10.png",
+    "description": "StreetWatch is an AI-powered road damage reporting platform that enables citizens to report damaged roads through image analysis. The platform automatically detects road damage, classifies its severity, and visualizes reports on an interactive map to support faster infrastructure response.",
+    "role": "AI Engineer",
+    "roleDesc": [
+      "Refined and optimized a YOLO-based object detection model to detect potholes and classify their severity levels from road images.",
+      "Developed a REST API using FastAPI to integrate the AI model, process image uploads, and return structured detection results in JSON format.",
+      "Deployed the AI inference service on Hugging Face Spaces, enabling the model to be accessed and tested through a public web interface.",
+      "Collaborated with a cross-functional team to integrate the AI backend with the web application, supporting an end-to-end road damage reporting system."
+    ],
+    "techStack": ["python", "fastapi"],
+    "projectLink": "https://github.com/StreetWatch-CC26/machine_learning"
+  },
+  {
     "id": "skinfriend",
     "projectName": "SkinFriend",
     "projectImg": "/img/project-image1.png",
