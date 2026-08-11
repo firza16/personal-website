@@ -15,6 +15,23 @@
     "projectLink": "https://github.com/firza16/nutrifriend-frontend"
   },
   {
+    "id": "shookie",
+    "projectName": "Shookie",
+    "projectImg": "/img/project-image11.png",
+    "description": "Shookie is a full-stack e-commerce platform for a cookie business, covering product catalog, cart, checkout, and order management, with a custom admin dashboard for inventory and order tracking.",
+    "role": "Full Stack Engineer",
+    "roleDesc": [
+      "Designed a PostgreSQL database schema using Prisma ORM, covering products, categories, cart, and orders, with historical price preservation for order records.",
+      "Built a REST API using Express.js with JWT authentication, covering the product catalog with search, filtering, and pagination, cart management, and order processing.",
+      "Developed an admin dashboard using AdminJS for managing products, categories, and order status.",
+      "Deployed the API to Vercel and integrated Supabase Storage for image hosting.",
+      "Built the frontend using Next.js and Tailwind CSS, consuming the REST API for the full shopping experience.",
+      "Authored technical documentation including ERD, system architecture diagram, sequence diagrams, and API reference."
+    ],
+    "techStack": ["nextjs", "typescript", "tailwind", "express", "postgresql", "prisma", "supabase"],
+    "projectLink": "https://github.com/firza16/shookie-frontend"
+  },
+  {
     "id": "streetwatch",
     "projectName": "StreetWatch",
     "projectImg": "/img/project-image10.png",

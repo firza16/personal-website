@@ -1,6 +1,9 @@
 
 import {
-  SiJavascript, SiExpress, SiTailwindcss, SiMysql, SiPostman, SiGooglecloud, SiTensorflow, SiFastapi
+  SiJavascript, SiNextdotjs, SiExpress, SiTailwindcss, SiMysql, SiPostman, SiGooglecloud, SiTensorflow, SiFastapi,
+  SiSupabase,
+  SiTypescript,
+  SiPrisma
 } from "react-icons/si";
 
 import {
@@ -18,6 +21,14 @@ const techIcons = {
   javascript: {
     icon: <SiJavascript size={20} color="#F7DF1E" />,
     label: "JavaScript",
+  },
+  typescript: {
+    icon: <SiTypescript size={20} color="#0077b5" />,
+    label: "TypeScript",
+  },
+  nextjs: {
+    icon: <SiNextdotjs size={20} color="#0B0909" />,
+    label: "Next.js",
   },
   tensorflow: {
     icon: <SiTensorflow size={20} color="#F69D39" />,
@@ -78,6 +89,14 @@ const techIcons = {
   postgresql: {
     icon: <BiLogoPostgresql size={20} color="#336791" />,
     label: "PostgreSQL",
+  },
+  supabase: {
+    icon: <SiSupabase size={20} color="#3ECF8E" />,
+    label: "Supabase",
+  },
+  prisma: {
+    icon: <SiPrisma size={20} color="#061E29" />,
+    label: "Prisma",
   },
   sql: {
     icon: <PiFileSql size={20} color="#00758F" />,
