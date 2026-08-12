@@ -28,8 +28,8 @@ function AltProfile() {
           <ul className="mt-5 flex flex-col gap-y-3">
             <li className="flex items-center gap-x-2.5">
               <IoMdMail />
-              <a className="text-[13px] text-gray-600 underline hover:text-gray-700 hover:decoration-2 focus:outline-hidden focus:decoration-2" href="mailto:firzahakimcrack@gmail.com">
-                firzahakimcrack@gmail.com
+              <a className="text-[13px] text-gray-600 underline hover:text-gray-700 hover:decoration-2 focus:outline-hidden focus:decoration-2" href="mailto:firzahakim01@gmail.com">
+                firzahakim01@gmail.com
               </a>
             </li>
 

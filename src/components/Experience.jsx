@@ -21,9 +21,9 @@ function Experience() {
               <h3 className="mb-1 text-xs text-gray-900">Coding Camp powered by DBS Foundation</h3>
 
               <ul className="list-disc ms-4 mt-3 space-y-1.5">
+                <li className="ps-1 text-sm text-gray-700">Selected as one of the Top 15 Teams Capstone Project out of 469 projects.</li>
                 <li className="ps-1 text-sm text-gray-700">Gained hands-on experience in Python, Machine Learning, and Deep Learning, including data preprocessing, model training, and evaluation, through structured learning and hands-on practice.</li>
-                <li className="ps-1 text-sm text-gray-700">Completed all mandatory courses on time, earning 4 certificates from Dicoding. </li>
-                <li className="ps-1 text-sm text-gray-700">Contributed to a Capstone project called StreetWatch, an AI-powered road damage reporting website, by developing Deep Learning models for object detection and road damage severity classification.</li>
+                <li className="ps-1 text-sm text-gray-700">Contributed to StreetWatch, an AI-powered pothole monitoring system, by refining a YOLO-based object detection model, developing a REST API with FastAPI, and deploying it on Hugging Face for public inference.</li>
               </ul>
             </div>
           </div>
